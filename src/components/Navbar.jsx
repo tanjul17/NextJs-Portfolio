@@ -30,7 +30,7 @@ const Navbar = () => {
           Projects
         </NavLink>
         <button className="bg-sky-200 hover:bg-sky-300 text-black font-bold py-1 px-4 rounded transition duration-300 ease-in-out">
-          <a href="https://drive.google.com/file/d/1sdJ9Rx8HO34Z9SbuvW6VVgXww-t14eW3/view" target="_blank">Resume</a>
+          <a href="https://drive.google.com/file/d/1QbIK6T22Uy0L3cuZaS6WdWJNG_uJJhBJ/view" target="_blank">Resume</a>
         </button>
       </nav>
     </header>
